@@ -1,10 +1,8 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *Firedrake*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+Via use of the finite element method (FEM), Firedrake automates the solution of partial differential equations, enabling high performance and sophisticated simulations for many scientists and engineers. By leveraging the FEniCSx Project's Uniform Form Lnaguage, the Firedrake software package allows for the expressive specification of any PDE. It also incorporates PETSc for calling on programmable solvers. The package also works with a variety of meshes, including triangular, quadrilateral, and tetrahedral unstructured meshes, as well as layered meshes with triangular wedges and hexahedra. There are many finite element spaces that can be used to carry out computations with significant automatic optimizations. The software includes plenty of documentation and an active development cycle with many contributors affiliated with various different institutions including Imperial College London, University of Oxford, Baylor University, and University of Washington for the primary team.
 
 ### Stats
 
