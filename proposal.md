@@ -8,7 +8,7 @@ Via use of the finite element method (FEM), Firedrake automates the solution of 
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |  [https://github.com/firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake)  |
+| Repository URL |  [https://github.com/firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake/)  |
 | Main/documentation website |  [https://www.firedrakeproject.org/](https://www.firedrakeproject.org/)  |
 | Year project was started | 2014 |
 | Number of contributors in the past year | 33 |
